@@ -1,5 +1,7 @@
 # Investigating TMDb movie data
-This is a simple project I completed to investigate a TMDb movie data set. The purpose of this project is intended to be a learning experience
+This is a project completed to investigate a The Movie Database (TMDb) data set. As part of the project, movie collection data of about 10,000 movies, including information such as budget, revenue, cast, director and ratings, from TMDb was analysed to produce a few interesting insights.
+
+The purpose of this project is intended to be a learning experience. 
 
 ## Included Files
 - `Investigating_TMDb_movie_data.html` - Summary Report for the Analysis
